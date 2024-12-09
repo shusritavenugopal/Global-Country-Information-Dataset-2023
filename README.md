@@ -1,4 +1,6 @@
 # Visualizing Our World: Stories Told Through Data  
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/13df4cdf-3b9f-4c96-9a74-7ff455585a1d">
+
 
 ## Introduction  
 This project explores diverse global patterns and trends using six key indicators, visualized through interactive world maps. Each map tells a unique story about human activity, environmental use, and economic policies worldwide.  
