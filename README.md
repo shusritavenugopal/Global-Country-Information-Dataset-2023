@@ -32,19 +32,24 @@ This project explores diverse global patterns and trends using six key indicator
 
 ### 1. **Correlation Between Land Area and Population Density Across Countries**  
 - Objective: Analyze the relationship between land area and population density for countries with small land areas but high population densities.  
-- Insights: Helps inform policy-making, urban planning, and resource allocation.  
+- Insights: Helps inform policy-making, urban planning, and resource allocation.
+![image](https://github.com/user-attachments/assets/6bdd929e-7d3a-4a84-9098-c81723acaa65)
+
 
 ### 2. **Analysis of Low Infant Mortality and High Life Expectancy**  
 - Focus: Top 35 countries with these metrics serve as models of success in healthcare and social policy.  
 - Insights: Provides actionable strategies for public health improvements.  
+![image](https://github.com/user-attachments/assets/7f781467-f5da-4878-8c4e-dce4ecc37b7a)
 
 ### 3. **Environmental Impact and Forest Conservation**  
 - Comparison: CO2 emissions vs. forest cover in the top 20 countries.  
 - Insights: Explores the balance between emissions and forest conservation.  
+![image](https://github.com/user-attachments/assets/a161aa6d-4400-48fa-ab1c-8b07dff5be5f)
 
 ### 4. **Educational Enrollment and Human Capital Development**  
 - Analysis: Relationship between tertiary education enrollment rates, GDP, and life expectancy.  
 - Insights: Highlights disparities in educational priorities and stages of development.  
+![image](https://github.com/user-attachments/assets/cddc3768-e7da-43db-9e5a-d6451d67a85d)
 
 ---
 
